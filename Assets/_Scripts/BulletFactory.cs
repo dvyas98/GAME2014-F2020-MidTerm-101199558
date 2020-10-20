@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/*///////
+File Name  : Bullet Factory
+Student Name : Dhimant Vyas
+Student ID : 101199558
+Date Last Modified  : 20 October 2020
+Making of the Bullet
+//////*/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/*///////
+File Name  : PlayerController
+Student Name : Dhimant Vyas
+Student ID : 101199558
+Date Last Modified  : 20 October 2020
+Controlling our Player to Move and Fire in the Right Direction and Orientation.
+//////*/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;

@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*///////
+File Name  : Enemy Controller
+Student Name : Dhimant Vyas
+Student ID : 101199558
+Date Last Modified  : 20 October 2020
+Controlling our Enemy AI.
+//////*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

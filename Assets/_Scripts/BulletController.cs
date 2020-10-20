@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*///////
+File Name  : Bullet Controller
+Student Name : Dhimant Vyas
+Student ID : 101199558
+Date Last Modified  : 20 October 2020
+Moving and Returning of the Bullet.
+//////*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

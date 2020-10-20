@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*///////
+File Name  : Background Controller
+Student Name : Dhimant Vyas
+Student ID : 101199558
+Date Last Modified  : 20 October 2020
+Controlling the backGround/
+//////*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
